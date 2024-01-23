@@ -5,10 +5,10 @@
       "resolved": "ghcr.io/codspace/versioning/bar@sha256:0eb80a7a45ea6ac6d2057798608be4cacb3d3667d4818118e17acc5037d687d4",
       "integrity": "sha256:0eb80a7a45ea6ac6d2057798608be4cacb3d3667d4818118e17acc5037d687d4"
     },
-    "ghcr.io/codspace/versioning/baz:1.0": {
-      "version": "1.0.0",
-      "resolved": "ghcr.io/codspace/versioning/baz@sha256:37f36051adf6da0a43764b9669b945e0f06e11973e02c57ad261b03bb1057cb7",
-      "integrity": "sha256:37f36051adf6da0a43764b9669b945e0f06e11973e02c57ad261b03bb1057cb7"
+    "ghcr.io/codspace/versioning/baz:2.0": {
+      "version": "2.0.0",
+      "resolved": "ghcr.io/codspace/versioning/baz@sha256:3420e9d222352d5bee4d7f2c99dd7492295f5518041650ade9e8ecd0d6ce49d8",
+      "integrity": "sha256:3420e9d222352d5bee4d7f2c99dd7492295f5518041650ade9e8ecd0d6ce49d8"
     },
     "ghcr.io/codspace/versioning/foo:1": {
       "version": "1.1.0",
